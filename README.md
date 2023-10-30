@@ -66,7 +66,15 @@ Simplified AES (SAES) 是一种教学用的加密算法，它是 AES 的简化�
 
 相比之下，SAES 使用更小的密钥和数据块大小，这使得加密过程更容易理解和实现。然而，这也意味着 SAES 在安全性上不如 AES。因此，虽然 SAES 对于教学和学习目的来说非常有用，但在需要高级安全性的实际应用中，我们通常会使用 AES 而不是 SAES。
 
-
+### 项目演示
+1.长文本加密解密
+![show](images/show1.gif)
+2.16位明文加密解密
+![show](images/show2.gif)
+3.双重加密，三重加密
+![show](images/show3.gif)
+4.明密文对解密
+![show](images/show4.gif)
 
 
 ### 项目框架
